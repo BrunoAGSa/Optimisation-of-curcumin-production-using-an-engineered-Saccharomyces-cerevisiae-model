@@ -1,1 +1,1 @@
-# Optimisation-of-curcumin-production-using-an-engineered-Saccharomyces-cerevisiae-mode
+# Optimisation-of-curcumin-production-using-an-engineered-Saccharomyces-cerevisiae-model
